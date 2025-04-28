@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Instagram Clone</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="add">Add</string>
+    <string name="reels">Reels</string>
+    <string name="profile">Profile</string>
+    <string name="posts">Posts</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="message">Message</string>
+    <string name="follow">Follow</string>
+    <string name="menu">Menu</string>
+    <string name="add_new_post">Add new post</string>
+    <string name="new_story">New</string>
+    <string name="travel">Travel</string>
+    <string name="food">Food</string>
+    <string name="nature">Nature</string>
+
+    <!-- New strings for edit profile -->
+    <string name="back">Back</string>
+    <string name="save">Done</string>
+    <string name="change_profile_photo">Change Profile Photo</string>
+
+</resources>
